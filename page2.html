@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Subtraction Calculator</title>
+</head>
+<body>
+    <h1>Subtraction Calculator</h1>
+    <label for="num1">Number 1: </label>
+    <input type="number" id="num1">
+    <br>
+    <label for="num2">Number 2: </label>
+    <input type="number" id="num2">
+    <br>
+    <button onclick="subtractNumbers()">Calculate</button>
+    <p id="result"></p>
+
+    <script>
+        function subtractNumbers() {
+            const num1 = parseFloat(document.getElementById("num1").value);
+            const num2 = parseFloat(document.getElementById("num2").value);
+            const result = num1 - num2;
+            document.getElementById("result").innerText = `Result: ${result}`;
+        }
+    </script>
+</body>
+</html>
