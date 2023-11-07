@@ -8,7 +8,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Hello, Davids' webpages</h1>
+      <h1>Hello, Davids' webpages for calculation</h1>
 
       <a href = "page1.html">Addition Page </a>
       <br>
