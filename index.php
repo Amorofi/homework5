@@ -10,19 +10,19 @@
     <div class="container">
       <h1>Hello, Davids' webpages</h1>
 
-      <a href = "page1.html">Page 1: </a>
+      <a href = "page1.html">Addition Page </a>
       <br>
       <br>
-      <a href = "page2.html">Page 2: </a>
+      <a href = "page2.html">Substraction Page </a>
       <br>
       <br>
-      <a href = "page3.html">Page 3: </a>
+      <a href = "page3.html">Multiplication Page </a>
       <br>
       <br>
-      <a href = "page4.html">Page 4: </a>
+      <a href = "page4.html">Division Page </a>
       <br>
       <br>
-      <a href = "page5.html">Page 5: </a>
+      <a href = "page5.html">Custom formula Page </a>
     </div>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
